@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>主题一</string>
+		<string>主题二</string>
+		<string>主题三</string>
+	</array>
+	<array>
+		<string>阴历</string>
+	</array>
+	<array>
+		<string>横向</string>
+		<string>纵向</string>
+	</array>
+	<array>
+		<string>选中</string>
+	</array>
+	<array>
+		<string>星期日</string>
+		<string>星期一</string>
+	</array>
+</array>
+</plist>

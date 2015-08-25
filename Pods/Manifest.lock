@@ -1,0 +1,13 @@
+PODS:
+  - FSCalendar (0.9.3)
+  - SSLunarDate (0.0.1)
+
+DEPENDENCIES:
+  - FSCalendar (~> 0.9.2)
+  - SSLunarDate (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  FSCalendar: 82450e266009a3f564c83417744a17620a1284d1
+  SSLunarDate: d5d7d581f7e7e157c8d704a5f053b4ebcf760bba
+
+COCOAPODS: 0.36.4
